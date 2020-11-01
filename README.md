@@ -1,3 +1,5 @@
 # Shiny Application
 Coursera: Developing Data Products Course Project
-gh-pages
+  
+  - files repository
+  - presentation gh-pages host
